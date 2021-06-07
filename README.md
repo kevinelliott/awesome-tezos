@@ -38,6 +38,7 @@ If you find this resource useful, consider sponsoring me or sendinga donation to
     - [SalsaDAO](https://salsadao.xyz)
 - Development
   - Smart Contract Development
+    - [Cryptoverse Wars](https://cryptocodeschool.in/tezos/)
     - [Tezos Academy](https://tezosacademy.io/)
     - YouTube: [Beginner's Guide to Tezos Smart Contracts with LIGO](https://www.youtube.com/watch?v=Ozf250c52AI)
   - Tutorials
