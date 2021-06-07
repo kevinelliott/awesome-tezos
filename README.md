@@ -13,4 +13,12 @@
       - DAO (Decentralized Autonomous Organization)
       - STO (Security Token Offering)
       - Tokens
+  - Wallets
+    - Desktop
+      - [AirGap](https://airgap.it/)
+      - [Galleon](https://cryptonomic.tech/galleon.html)
+    - Mobile
+      - [AirGap](https://airgap.it/)
+    - Web
+      - [Kukai](https://wallet.kukai.app/)
   
