@@ -1,5 +1,6 @@
 # Awesome Tezos [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-🎉 A curated list of awesome things in the Tezos blockchain ecosystem! 🥳🤓🥳🤓🥳🤑
+
+> 🎉 A curated list of awesome things in the Tezos blockchain ecosystem! 🥳🤓🥳🤓🥳🤑
 
 We have spent hours exploring, researching, evaluating, reviewing, and editing this collection of Awesome Tezos resources, and we hope you 💙 it. 
 
@@ -7,17 +8,23 @@ We have spent hours exploring, researching, evaluating, reviewing, and editing t
 
 If you find this resource useful, consider sponsoring me or sending a donation to **awesome-tezos.tez**. All donations will go towards growing and grooming this collection so that we can continue to help the Tezos community flourish.
 
-## Awesome Tezos
-- Applications
-  - Domains
-    - [Tezos Domains](https://tezos.domains/)
-- Block Explorers
+## The Guide
+
+- Resources(#resources)
+  - [Official Resources](#official-resources)
+  - [External Resources](#external-resources)
+  - [Jobs](#jobs)
+  - [Community](#community)
+  - [Tutorials](#tutorials)
+- Applications(#applications)
+  - [Tezos Domains](https://tezos.domains/)
+- Block Explorers(#block-explorers)
   - [Better Call Dev](https://better-call.dev/)
   - [tezblock by AirGap](https://tezblock.io/)
   - [TzKT Explorer](https://tzkt.io/)
   - [TzStats](https://tzstats.com/)
-- Contracts
-  - Playground &amp; IDEs
+- [Contracts](#contracts)
+  - [Playground &amp; IDEs](#playground-and-ides)
     - [LIGO IDE](https://ide.ligolang.org/)
     - [SmartPy IDE](https://smartpy.io/ide)
     - [Try Archetype on Gitpod](https://gitpod.io/#https://github.com/edukera/try-archetype)
@@ -67,3 +74,4 @@ If you find this resource useful, consider sponsoring me or sending a donation t
     - [AirGap](https://airgap.it/)
   - Web
     - [Kukai](https://wallet.kukai.app/)
+
