@@ -56,6 +56,9 @@ If you find this resource useful, consider sponsoring me or sending a donation t
     - YouTube: [Taquito Workshop - Tezos + CoinList Hackathon](https://www.youtube.com/watch?v=qYk_17YbPa4)
 - Games
   - [PiXEL POTUS](https://www.pixelpotus.com/)
+- Partners
+  - [Red Bull Racing](https://www.redbull.com/int-en/redbullracing)
+  - [Ubisoft](https://www.ubisoft.com/)
 - Wallets
   - Desktop
     - [AirGap](https://airgap.it/)
