@@ -1,11 +1,16 @@
 # Awesome Tezos [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 🎉 A curated list of awesome things in the Tezos blockchain ecosystem! 🥳🤓🥳🤓🥳🤑
 
-- Tezos
+- Awesome Tezos
   - Smart Contracts
-    - Airdrop
-    - DAO (Decentralized Autonomous Organization)
-    - STO (Security Token Offering)
-    - Tokens
-  -
+    - Playground &amp; IDEs
+      - [LIGO IDE](https://ide.ligolang.org/)
+      - [SmartPy IDE](https://smartpy.io/ide)
+      - [Try Archetype on Gitpod](https://gitpod.io/#https://github.com/edukera/try-archetype)
+      - [Try Michelson](https://try-michelson.com/)
+    - Templates &amp; Examples
+      - Airdrop
+      - DAO (Decentralized Autonomous Organization)
+      - STO (Security Token Offering)
+      - Tokens
   
