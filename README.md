@@ -63,6 +63,9 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 ### Jobs
 
+- [Official Jobs](https://tezos.com/docs/home/jobs)
+- [Jobs @ TQ Tezos](https://boards.greenhouse.io/tqtezos)
+
 ### Community
 
 - [Twitter](https://twitter.com/tezos)
