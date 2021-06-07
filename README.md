@@ -17,6 +17,8 @@ If you find this resource useful, consider sponsoring me or sending a donation t
   - [Community](#community)
   - [Tutorials](#tutorials)
 - [Applications](#applications)
+  - [Digital Assets](#digital-assets)
+  - [Domains](#domains)
 - [Block Explorers](#block-explorers)
 - [DeFi](#defi) (Decentralized Finance)
   - [DAO](#dao) (Decentralized Autonomous Organization)
@@ -62,6 +64,13 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 - [Reddit](https://www.reddit.com/r/tezos/)
 
 ## Applications
+
+### Digital Assets
+
+- [HEN / Hic et Nunc](https://www.hicetnunc.xyz/)
+- [Kalamint](https://kalamint.io/)
+
+### Domains
 
 - [Tezos Domains](https://tezos.domains/)
 
