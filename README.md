@@ -10,15 +10,15 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 ## The Guide
 
-- Resources(#resources)
+- [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
   - [Jobs](#jobs)
   - [Community](#community)
   - [Tutorials](#tutorials)
-- Applications(#applications)
+- [Applications](#applications)
   - [Tezos Domains](https://tezos.domains/)
-- Block Explorers(#block-explorers)
+- [Block Explorers](#block-explorers)
   - [Better Call Dev](https://better-call.dev/)
   - [tezblock by AirGap](https://tezblock.io/)
   - [TzKT Explorer](https://tzkt.io/)
@@ -29,7 +29,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
     - [SmartPy IDE](https://smartpy.io/ide)
     - [Try Archetype on Gitpod](https://gitpod.io/#https://github.com/edukera/try-archetype)
     - [Try Michelson](https://try-michelson.com/)
-  - Templates &amp; Examples
+  - [Templates &amp; Examples](#templates-and-examples)
     - Airdrop
     - DAO (Decentralized Autonomous Organization)
     - NFT (Non-Fungible Token)
@@ -40,23 +40,23 @@ If you find this resource useful, consider sponsoring me or sending a donation t
         - [FA2 NFT Fractional Ownership Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/fractional)
         - [FA2 NFT Collectibles Promotion Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/collectibles)
       - [FA2 Contracts Implementation by TQ Tezos](https://github.com/tqtezos/smart-contracts)
-- DeFi (Decentralized Finance)
-  - DEX (Decentralized Exchange)
+- [DeFi](#defi) (Decentralized Finance)
+  - [DEX](#dex) (Decentralized Exchange)
     - [QuipuSwap](https://quipuswap.com/)
-  - Farms
+  - [Farms](#farms)
     - [Dos Esposas Restaurante](https://dos-esposas.restaurant)
     - [farm/soil](https://farmsoil.xtz)
     - [Plenty](https://plentydefi.com)
     - [SalsaDAO](https://salsadao.xyz)
-  - Platforms
+  - [Platforms](#platforms)
     - [Crunchy](https://crunchy.network/)
     - [Rocket Launchpad](https://docs.rocketlaunchpad.io)
-- Development
-  - Smart Contract Development
+- [Development](#development)
+  - [Smart Contracts](#smart-contracts)
     - [Cryptoverse Wars](https://cryptocodeschool.in/tezos/)
     - [Tezos Academy](https://tezosacademy.io/)
     - YouTube: [Beginner's Guide to Tezos Smart Contracts with LIGO](https://www.youtube.com/watch?v=Ozf250c52AI)
-  - Tutorials
+  - [Tutorials](#tutorials)
     - [Build a Tezos dApp using Taquito and the Beacon SDK by Claude Barde](https://medium.com/coinmonks/build-a-tezos-dapp-using-taquito-and-the-beacon-sdk-692d7dc822aa)
     - [How to Build Your First dApp on Tezos by Claude Barde](https://betterprogramming.pub/build-your-first-dapp-on-tezos-270c568d4fe9)
     - [Tezos: Creating, Deploying, and Interacting with a Contract by ProtoFire.io](https://medium.com/protofire-blog/tezos-part-1-creating-deploying-and-interacting-with-a-contract-5ee3efa819fa)
@@ -66,7 +66,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 - Partners
   - [Red Bull Racing](https://www.redbull.com/int-en/redbullracing)
   - [Ubisoft](https://www.ubisoft.com/)
-- Wallets
+- [Wallets](#wallets)
   - Desktop
     - [AirGap](https://airgap.it/)
     - [Galleon](https://cryptonomic.tech/galleon.html)
@@ -75,3 +75,14 @@ If you find this resource useful, consider sponsoring me or sending a donation t
   - Web
     - [Kukai](https://wallet.kukai.app/)
 
+## Resources
+
+### Official Resources
+
+### External Resources
+
+### Jobs
+
+### Community
+
+- [Twitter](https://twitter.com/tezos)
