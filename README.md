@@ -105,6 +105,10 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 - [FA2 NFT Fractional Ownership Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/fractional)
 - [FA2 NFT Collectibles Promotion Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/collectibles)
 
+### Frameworks
+
+- [Taquito](https://tezostaquito.io/)
+
 ### Playground and IDEs
 
 - [LIGO IDE](https://ide.ligolang.org/)
