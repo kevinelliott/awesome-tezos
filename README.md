@@ -35,7 +35,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
       - [Tokens](#tokens)
   - [Libraries](#libraries)
     - [Go](#go)
-    - [Javascript](#javascript])
+    - [Javascript](#javascript)
     - [.NET](#net)
   - [Tutorials](#tutorials)
 - [Games](#games)
