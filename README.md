@@ -17,7 +17,6 @@ If you find this resource useful, consider sponsoring me or sending a donation t
   - [Community](#community)
   - [Tutorials](#tutorials)
 - [Applications](#applications)
-  - [Tezos Domains](https://tezos.domains/)
 - [Block Explorers](#block-explorers)
   - [Better Call Dev](https://better-call.dev/)
   - [tezblock by AirGap](https://tezblock.io/)
@@ -86,3 +85,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 ### Community
 
 - [Twitter](https://twitter.com/tezos)
+
+## Applications
+
+- [Tezos Domains](https://tezos.domains/)
