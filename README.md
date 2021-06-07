@@ -2,6 +2,9 @@
 🎉 A curated list of awesome things in the Tezos blockchain ecosystem! 🥳🤓🥳🤓🥳🤑
 
 - Awesome Tezos
+  - Block Explorers
+    - [Better Call Dev](https://better-call.dev/)
+    - [TzKT Explorer](https://tzkt.io/)
   - Contracts
     - Playground &amp; IDEs
       - [LIGO IDE](https://ide.ligolang.org/)
@@ -25,6 +28,12 @@
       - [farm/soil](https://farmsoil.xtz)
       - [Plenty](https://plentydefi.com)
       - [SalsaDAO](https://salsadao.xyz)
+  - Tutorials
+    - dApps
+      - 
+    - Smart Contract Development
+      - [Tezos Academy](https://tezosacademy.io/)
+      - YouTube: [Beginner's Guide to Tezos Smart Contracts with LIGO](https://www.youtube.com/watch?v=Ozf250c52AI)
   - Wallets
     - Desktop
       - [AirGap](https://airgap.it/)
