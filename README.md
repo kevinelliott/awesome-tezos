@@ -4,7 +4,9 @@
 - Awesome Tezos
   - Block Explorers
     - [Better Call Dev](https://better-call.dev/)
+    - [tezblock by AirGap](https://tezblock.io/)
     - [TzKT Explorer](https://tzkt.io/)
+    - [TzStats](https://tzstats.com/)
   - Contracts
     - Playground &amp; IDEs
       - [LIGO IDE](https://ide.ligolang.org/)
@@ -28,12 +30,14 @@
       - [farm/soil](https://farmsoil.xtz)
       - [Plenty](https://plentydefi.com)
       - [SalsaDAO](https://salsadao.xyz)
-  - Tutorials
+  - Development
     - dApps
       - 
     - Smart Contract Development
       - [Tezos Academy](https://tezosacademy.io/)
       - YouTube: [Beginner's Guide to Tezos Smart Contracts with LIGO](https://www.youtube.com/watch?v=Ozf250c52AI)
+    - Tutorials
+      - [Tezos: Creating, Deploying, and Interacting with a Contract by ProtoFire.io](https://medium.com/protofire-blog/tezos-part-1-creating-deploying-and-interacting-with-a-contract-5ee3efa819fa)
   - Wallets
     - Desktop
       - [AirGap](https://airgap.it/)
