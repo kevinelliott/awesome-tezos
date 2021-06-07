@@ -36,6 +36,9 @@ If you find this resource useful, consider sponsoring me or sendinga donation to
     - [farm/soil](https://farmsoil.xtz)
     - [Plenty](https://plentydefi.com)
     - [SalsaDAO](https://salsadao.xyz)
+  - Platforms
+    - [Crunchy](https://crunchy.network/)
+    - [Rocket Launchpad](https://docs.rocketlaunchpad.io)
 - Development
   - Smart Contract Development
     - [Cryptoverse Wars](https://cryptocodeschool.in/tezos/)
