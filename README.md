@@ -31,6 +31,8 @@ If you find this resource useful, consider sponsoring me or sendinga donation to
         - [FA2 NFT Collectibles Promotion Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/collectibles)
       - [FA2 Contracts Implementation by TQ Tezos](https://github.com/tqtezos/smart-contracts)
 - DeFi (Decentralized Finance)
+  - DEX (Decentralized Exchange)
+    - [QuipuSwap](https://quipuswap.com/)
   - Farms
     - [Dos Esposas Restaurante](https://dos-esposas.restaurant)
     - [farm/soil](https://farmsoil.xtz)
