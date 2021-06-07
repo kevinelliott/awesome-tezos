@@ -18,23 +18,6 @@ If you find this resource useful, consider sponsoring me or sending a donation t
   - [Tutorials](#tutorials)
 - [Applications](#applications)
 - [Block Explorers](#block-explorers)
-- [Contracts](#contracts)
-  - [Playground &amp; IDEs](#playground-and-ides)
-    - [LIGO IDE](https://ide.ligolang.org/)
-    - [SmartPy IDE](https://smartpy.io/ide)
-    - [Try Archetype on Gitpod](https://gitpod.io/#https://github.com/edukera/try-archetype)
-    - [Try Michelson](https://try-michelson.com/)
-  - [Templates &amp; Examples](#templates-and-examples)
-    - Airdrop
-    - DAO (Decentralized Autonomous Organization)
-    - NFT (Non-Fungible Token)
-    - STO (Security Token Offering)
-    - Tokens
-      - NFT (Non-Fungible Token)
-        - [FA2 NFT Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/nft_assets)
-        - [FA2 NFT Fractional Ownership Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/fractional)
-        - [FA2 NFT Collectibles Promotion Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/collectibles)
-      - [FA2 Contracts Implementation by TQ Tezos](https://github.com/tqtezos/smart-contracts)
 - [DeFi](#defi) (Decentralized Finance)
   - [DEX](#dex) (Decentralized Exchange)
     - [QuipuSwap](https://quipuswap.com/)
@@ -47,11 +30,17 @@ If you find this resource useful, consider sponsoring me or sending a donation t
     - [Crunchy](https://crunchy.network/)
     - [Rocket Launchpad](https://docs.rocketlaunchpad.io)
 - [Development](#development)
-  - [Smart Contracts](#smart-contracts)
-    - [Cryptoverse Wars](https://cryptocodeschool.in/tezos/)
-    - [Tezos Academy](https://tezosacademy.io/)
-    - YouTube: [Beginner's Guide to Tezos Smart Contracts with LIGO](https://www.youtube.com/watch?v=Ozf250c52AI)
+  - [Schools](#schools)
+  - [Contracts](#contracts)
+    - [Playground &amp; IDEs](#playground-and-ides)
+    - [Templates &amp; Examples](#templates-and-examples)
+      - Airdrop
+      - DAO (Decentralized Autonomous Organization)
+      - NFT (Non-Fungible Token)
+      - STO (Security Token Offering)
+      - [Tokens](#tokens)
   - [Tutorials](#tutorials)
+    - YouTube: [Beginner's Guide to Tezos Smart Contracts with LIGO](https://www.youtube.com/watch?v=Ozf250c52AI)
     - [Build a Tezos dApp using Taquito and the Beacon SDK by Claude Barde](https://medium.com/coinmonks/build-a-tezos-dapp-using-taquito-and-the-beacon-sdk-692d7dc822aa)
     - [How to Build Your First dApp on Tezos by Claude Barde](https://betterprogramming.pub/build-your-first-dapp-on-tezos-270c568d4fe9)
     - [Tezos: Creating, Deploying, and Interacting with a Contract by ProtoFire.io](https://medium.com/protofire-blog/tezos-part-1-creating-deploying-and-interacting-with-a-contract-5ee3efa819fa)
@@ -88,6 +77,32 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 - [tezblock by AirGap](https://tezblock.io/)
 - [TzKT Explorer](https://tzkt.io/)
 - [TzStats](https://tzstats.com/)
+
+## Development
+
+### Contracts
+
+#### Templates and Examples
+
+##### Tokens
+
+- [FA2 Contracts Implementation by TQ Tezos](https://github.com/tqtezos/smart-contracts)
+- [FA2 NFT Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/nft_assets)
+- [FA2 NFT Fractional Ownership Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/fractional)
+- [FA2 NFT Collectibles Promotion Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/collectibles)
+
+### Playground and IDEs
+
+- [LIGO IDE](https://ide.ligolang.org/)
+- [SmartPy IDE](https://smartpy.io/ide)
+- [Try Archetype on Gitpod](https://gitpod.io/#https://github.com/edukera/try-archetype)
+- [Try Michelson](https://try-michelson.com/)
+
+### Schools
+
+- [Cryptoverse Wars](https://cryptocodeschool.in/tezos/)
+- [Tezos Academy](https://tezosacademy.io/)
+
 
 ## Wallets
 
