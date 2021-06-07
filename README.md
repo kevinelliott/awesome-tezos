@@ -33,6 +33,10 @@ If you find this resource useful, consider sponsoring me or sending a donation t
       - NFT
       - STO
       - [Tokens](#tokens)
+  - [Libraries](#libraries)
+    - [Go](#go)
+    - [Javascript](#javascript])
+    - [.NET](#net)
   - [Tutorials](#tutorials)
 - [Games](#games)
 - [Partners](#partners)
@@ -105,9 +109,21 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 - [FA2 NFT Fractional Ownership Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/fractional)
 - [FA2 NFT Collectibles Promotion Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/collectibles)
 
-### Frameworks
+### Libraries
 
+#### Go
+
+- [go-tezos](https://github.com/goat-systems/go-tezos)
+- [TzGo](https://github.com/blockwatch-cc/tzgo)
+
+#### Javascript
+
+- [sotez](https://github.com/AndrewKishino/sotez)
 - [Taquito](https://tezostaquito.io/)
+
+#### .NET
+
+- [Netezos](https://github.com/baking-bad/netezos)
 
 ### Playground and IDEs
 
