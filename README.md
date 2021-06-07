@@ -3,7 +3,7 @@
 
 We have spent hours exploring, researching, evaluating, reviewing, and editing this collection of Awesome Tezos resources, and we hope you 💙 it. 
 
-## Contributing
+### Contributing
 
 If you find this resource useful, consider sponsoring me or sendinga donation to **zanoryt.tez**. All donations will go towards growing and grooming this collection so that we can continue to help the Tezos community flourish.
 
