@@ -5,7 +5,7 @@ We have spent hours exploring, researching, evaluating, reviewing, and editing t
 
 ### Contributing
 
-If you find this resource useful, consider sponsoring me or sendinga donation to **zanoryt.tez**. All donations will go towards growing and grooming this collection so that we can continue to help the Tezos community flourish.
+If you find this resource useful, consider sponsoring me or sendinga donation to **awesome-tezos.tez**. All donations will go towards growing and grooming this collection so that we can continue to help the Tezos community flourish.
 
 ## Awesome Tezos
 - Block Explorers
