@@ -5,9 +5,13 @@ We have spent hours exploring, researching, evaluating, reviewing, and editing t
 
 ### Contributing
 
-If you find this resource useful, consider sponsoring me or sendinga donation to **awesome-tezos.tez**. All donations will go towards growing and grooming this collection so that we can continue to help the Tezos community flourish.
+If you find this resource useful, consider sponsoring me or sending a donation to **awesome-tezos.tez**. All donations will go towards growing and grooming this collection so that we can continue to help the Tezos community flourish.
 
 ## Awesome Tezos
+- Applications
+  - 
+  - Domains
+    - [Tezos Domains](https://tezos.domains/)
 - Block Explorers
   - [Better Call Dev](https://better-call.dev/)
   - [tezblock by AirGap](https://tezblock.io/)
@@ -51,6 +55,8 @@ If you find this resource useful, consider sponsoring me or sendinga donation to
     - [How to Build Your First dApp on Tezos by Claude Barde](https://betterprogramming.pub/build-your-first-dapp-on-tezos-270c568d4fe9)
     - [Tezos: Creating, Deploying, and Interacting with a Contract by ProtoFire.io](https://medium.com/protofire-blog/tezos-part-1-creating-deploying-and-interacting-with-a-contract-5ee3efa819fa)
     - YouTube: [Taquito Workshop - Tezos + CoinList Hackathon](https://www.youtube.com/watch?v=qYk_17YbPa4)
+- Games
+  - [PiXEL POTUS](https://www.pixelpotus.com/)
 - Wallets
   - Desktop
     - [AirGap](https://airgap.it/)
