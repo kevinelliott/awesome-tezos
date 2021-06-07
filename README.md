@@ -9,7 +9,6 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 ## Awesome Tezos
 - Applications
-  - 
   - Domains
     - [Tezos Domains](https://tezos.domains/)
 - Block Explorers
