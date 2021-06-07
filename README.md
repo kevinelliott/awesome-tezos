@@ -34,11 +34,8 @@ If you find this resource useful, consider sponsoring me or sending a donation t
       - STO
       - [Tokens](#tokens)
   - [Tutorials](#tutorials)
-- Games
-  - [PiXEL POTUS](https://www.pixelpotus.com/)
-- Partners
-  - [Red Bull Racing](https://www.redbull.com/int-en/redbullracing)
-  - [Ubisoft](https://www.ubisoft.com/)
+- [Games](#games)
+- [Partners](#partners)
 - [Wallets](#wallets)
   - [Desktop](#desktop-wallets)
   - [Mobile](#mobile-wallets)
@@ -127,6 +124,17 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 - [How to Build Your First dApp on Tezos by Claude Barde](https://betterprogramming.pub/build-your-first-dapp-on-tezos-270c568d4fe9)
 - [Tezos: Creating, Deploying, and Interacting with a Contract by ProtoFire.io](https://medium.com/protofire-blog/tezos-part-1-creating-deploying-and-interacting-with-a-contract-5ee3efa819fa)
 - YouTube: [Taquito Workshop - Tezos + CoinList Hackathon](https://www.youtube.com/watch?v=qYk_17YbPa4)
+
+
+## Games
+
+- [PiXEL POTUS](https://www.pixelpotus.com/)
+
+
+## Partners
+
+- [Red Bull Racing](https://www.redbull.com/int-en/redbullracing)
+- [Ubisoft](https://www.ubisoft.com/)
 
 
 ## Wallets
