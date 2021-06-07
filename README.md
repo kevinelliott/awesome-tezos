@@ -17,14 +17,14 @@ If you find this resource useful, consider sponsoring me or sending a donation t
   - [Community](#community)
   - [Tutorials](#tutorials)
 - [Applications](#applications)
+  - [DeFi](#defi) (Decentralized Finance)
+    - [DAO](#dao) (Decentralized Autonomous Organization)
+    - [DEX](#dex) (Decentralized Exchange)
+    - [Farms](#farms) (Yield Farming)
+    - [Platforms](#platforms)
   - [Digital Assets](#digital-assets)
   - [Domains](#domains)
 - [Block Explorers](#block-explorers)
-- [DeFi](#defi) (Decentralized Finance)
-  - [DAO](#dao) (Decentralized Autonomous Organization)
-  - [DEX](#dex) (Decentralized Exchange)
-  - [Farms](#farms) (Yield Farming)
-  - [Platforms](#platforms)
 - [Development](#development)
   - [Schools](#schools)
   - [Contracts](#contracts)
@@ -65,6 +65,29 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 ## Applications
 
+### DeFi
+
+#### DAO
+
+- [SalsaDAO](https://salsadao.xyz/#/dao)
+
+#### DEX
+
+- [SpicySwap](https://spicyswap.xyz/)
+- [QuipuSwap](https://quipuswap.com/)
+
+#### Farms
+
+- [Dos Esposas Restaurante](https://dos-esposas.restaurant)
+- [farm/soil](https://farmsoil.xtz)
+- [Plenty](https://plentydefi.com)
+- [SalsaDAO](https://salsadao.xyz/#/farm)
+
+#### Platforms
+
+- [Crunchy](https://crunchy.network/)
+- [Rocket Launchpad](https://docs.rocketlaunchpad.io)
+
 ### Digital Assets
 
 - [HEN / Hic et Nunc](https://www.hicetnunc.xyz/)
@@ -80,30 +103,6 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 - [tezblock by AirGap](https://tezblock.io/)
 - [TzKT Explorer](https://tzkt.io/)
 - [TzStats](https://tzstats.com/)
-
-## DeFi
-
-### DAO
-
-- [SalsaDAO](https://salsadao.xyz/#/dao)
-
-### DEX
-
-- [SpicySwap](https://spicyswap.xyz/)
-- [QuipuSwap](https://quipuswap.com/)
-
-### Farms
-
-- [Dos Esposas Restaurante](https://dos-esposas.restaurant)
-- [farm/soil](https://farmsoil.xtz)
-- [Plenty](https://plentydefi.com)
-- [SalsaDAO](https://salsadao.xyz/#/farm)
-
-### Platforms
-
-- [Crunchy](https://crunchy.network/)
-- [Rocket Launchpad](https://docs.rocketlaunchpad.io)
-
 
 ## Development
 
