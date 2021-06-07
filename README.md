@@ -19,16 +19,10 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 - [Applications](#applications)
 - [Block Explorers](#block-explorers)
 - [DeFi](#defi) (Decentralized Finance)
+  - [DAO](#dao) (Decentralized Autonomous Organization)
   - [DEX](#dex) (Decentralized Exchange)
-    - [QuipuSwap](https://quipuswap.com/)
   - [Farms](#farms)
-    - [Dos Esposas Restaurante](https://dos-esposas.restaurant)
-    - [farm/soil](https://farmsoil.xtz)
-    - [Plenty](https://plentydefi.com)
-    - [SalsaDAO](https://salsadao.xyz)
   - [Platforms](#platforms)
-    - [Crunchy](https://crunchy.network/)
-    - [Rocket Launchpad](https://docs.rocketlaunchpad.io)
 - [Development](#development)
   - [Schools](#schools)
   - [Contracts](#contracts)
@@ -81,6 +75,30 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 - [tezblock by AirGap](https://tezblock.io/)
 - [TzKT Explorer](https://tzkt.io/)
 - [TzStats](https://tzstats.com/)
+
+## DeFi
+
+### DAO
+
+- [SalsaDAO](https://salsadao.xyz/#/dao)
+
+### DEX
+
+- [SpicySwap](https://spicyswap.xyz/)
+- [QuipuSwap](https://quipuswap.com/)
+
+### Farms
+
+- [Dos Esposas Restaurante](https://dos-esposas.restaurant)
+- [farm/soil](https://farmsoil.xtz)
+- [Plenty](https://plentydefi.com)
+- [SalsaDAO](https://salsadao.xyz/#/farm)
+
+### Platforms
+
+- [Crunchy](https://crunchy.network/)
+- [Rocket Launchpad](https://docs.rocketlaunchpad.io)
+
 
 ## Development
 
