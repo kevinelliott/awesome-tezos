@@ -66,13 +66,9 @@ If you find this resource useful, consider sponsoring me or sending a donation t
   - [Red Bull Racing](https://www.redbull.com/int-en/redbullracing)
   - [Ubisoft](https://www.ubisoft.com/)
 - [Wallets](#wallets)
-  - Desktop
-    - [AirGap](https://airgap.it/)
-    - [Galleon](https://cryptonomic.tech/galleon.html)
-  - Mobile
-    - [AirGap](https://airgap.it/)
-  - Web
-    - [Kukai](https://wallet.kukai.app/)
+  - [Desktop](#desktop-wallets)
+  - [Mobile](#mobile-wallets)
+  - [Web](#web-wallets)
 
 ## Resources
 
@@ -89,3 +85,19 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 ## Applications
 
 - [Tezos Domains](https://tezos.domains/)
+
+
+## Wallets
+
+### Desktop Wallets
+
+- [AirGap](https://airgap.it/)
+- [Galleon](https://cryptonomic.tech/galleon.html)
+
+### Mobile Wallets
+
+- [AirGap](https://airgap.it/)
+
+### Web Wallets
+
+- [Kukai](https://wallet.kukai.app/)
