@@ -29,16 +29,11 @@ If you find this resource useful, consider sponsoring me or sending a donation t
     - [Playground &amp; IDEs](#playground-and-ides)
     - [Templates &amp; Examples](#templates-and-examples)
       - Airdrop
-      - DAO (Decentralized Autonomous Organization)
-      - NFT (Non-Fungible Token)
-      - STO (Security Token Offering)
+      - DAO
+      - NFT
+      - STO
       - [Tokens](#tokens)
   - [Tutorials](#tutorials)
-    - YouTube: [Beginner's Guide to Tezos Smart Contracts with LIGO](https://www.youtube.com/watch?v=Ozf250c52AI)
-    - [Build a Tezos dApp using Taquito and the Beacon SDK by Claude Barde](https://medium.com/coinmonks/build-a-tezos-dapp-using-taquito-and-the-beacon-sdk-692d7dc822aa)
-    - [How to Build Your First dApp on Tezos by Claude Barde](https://betterprogramming.pub/build-your-first-dapp-on-tezos-270c568d4fe9)
-    - [Tezos: Creating, Deploying, and Interacting with a Contract by ProtoFire.io](https://medium.com/protofire-blog/tezos-part-1-creating-deploying-and-interacting-with-a-contract-5ee3efa819fa)
-    - YouTube: [Taquito Workshop - Tezos + CoinList Hackathon](https://www.youtube.com/watch?v=qYk_17YbPa4)
 - Games
   - [PiXEL POTUS](https://www.pixelpotus.com/)
 - Partners
@@ -124,6 +119,14 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 - [Cryptoverse Wars](https://cryptocodeschool.in/tezos/)
 - [Tezos Academy](https://tezosacademy.io/)
+
+### Tutorials
+
+- YouTube: [Beginner's Guide to Tezos Smart Contracts with LIGO](https://www.youtube.com/watch?v=Ozf250c52AI)
+- [Build a Tezos dApp using Taquito and the Beacon SDK by Claude Barde](https://medium.com/coinmonks/build-a-tezos-dapp-using-taquito-and-the-beacon-sdk-692d7dc822aa)
+- [How to Build Your First dApp on Tezos by Claude Barde](https://betterprogramming.pub/build-your-first-dapp-on-tezos-270c568d4fe9)
+- [Tezos: Creating, Deploying, and Interacting with a Contract by ProtoFire.io](https://medium.com/protofire-blog/tezos-part-1-creating-deploying-and-interacting-with-a-contract-5ee3efa819fa)
+- YouTube: [Taquito Workshop - Tezos + CoinList Hackathon](https://www.youtube.com/watch?v=qYk_17YbPa4)
 
 
 ## Wallets
