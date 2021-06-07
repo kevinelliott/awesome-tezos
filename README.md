@@ -2,7 +2,7 @@
 🎉 A curated list of awesome things in the Tezos blockchain ecosystem! 🥳🤓🥳🤓🥳🤑
 
 - Awesome Tezos
-  - Smart Contracts
+  - Contracts
     - Playground &amp; IDEs
       - [LIGO IDE](https://ide.ligolang.org/)
       - [SmartPy IDE](https://smartpy.io/ide)
@@ -13,6 +13,13 @@
       - DAO (Decentralized Autonomous Organization)
       - STO (Security Token Offering)
       - Tokens
+        - [FA2 Contracts Implementation by TQ Tezos](https://github.com/tqtezos/smart-contracts)
+  - DeFi (Decentralized Finance)
+    - Farms
+      - [Dos Esposas Restaurante](https://dos-esposas.restaurant)
+      - [farm/soil](https://farmsoil.xtz)
+      - [Plenty](https://plentydefi.com)
+      - [SalsaDAO](https://salsadao.xyz)
   - Wallets
     - Desktop
       - [AirGap](https://airgap.it/)
