@@ -1,7 +1,7 @@
 # Awesome Tezos [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 🎉 A curated list of awesome things in the Tezos blockchain ecosystem! 🥳🤓🥳🤓🥳🤑
 
-We have spent hours exploring, researching, evaluating, reviewing, and editing this collection of Awesome Tezos resources, and we hope you 💙 it. If you find this resource useful, consider sponsoring me or sending some tez to **zanoryt.tez**. All donations will go towards growing and grooming this collection so that we can continue to help the Tezos community flourish.
+We have spent hours exploring, researching, evaluating, reviewing, and editing this collection of Awesome Tezos resources, and we hope you 💙 it. If you find this resource useful, consider sponsoring me or sendinga donation to **zanoryt.tez**. All donations will go towards growing and grooming this collection so that we can continue to help the Tezos community flourish.
 
 - Awesome Tezos
   - Block Explorers
