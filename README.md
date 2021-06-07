@@ -18,10 +18,6 @@ If you find this resource useful, consider sponsoring me or sending a donation t
   - [Tutorials](#tutorials)
 - [Applications](#applications)
 - [Block Explorers](#block-explorers)
-  - [Better Call Dev](https://better-call.dev/)
-  - [tezblock by AirGap](https://tezblock.io/)
-  - [TzKT Explorer](https://tzkt.io/)
-  - [TzStats](https://tzstats.com/)
 - [Contracts](#contracts)
   - [Playground &amp; IDEs](#playground-and-ides)
     - [LIGO IDE](https://ide.ligolang.org/)
@@ -86,6 +82,12 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 - [Tezos Domains](https://tezos.domains/)
 
+## Block Explorers
+
+- [Better Call Dev](https://better-call.dev/)
+- [tezblock by AirGap](https://tezblock.io/)
+- [TzKT Explorer](https://tzkt.io/)
+- [TzStats](https://tzstats.com/)
 
 ## Wallets
 
