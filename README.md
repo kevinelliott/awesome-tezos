@@ -69,6 +69,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 ### Community
 
 - [Twitter](https://twitter.com/tezos)
+- [Reddit](https://www.reddit.com/r/tezos/)
 
 ## Applications
 
