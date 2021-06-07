@@ -21,7 +21,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 - [DeFi](#defi) (Decentralized Finance)
   - [DAO](#dao) (Decentralized Autonomous Organization)
   - [DEX](#dex) (Decentralized Exchange)
-  - [Farms](#farms)
+  - [Farms](#farms) (Yield Farming)
   - [Platforms](#platforms)
 - [Development](#development)
   - [Schools](#schools)
