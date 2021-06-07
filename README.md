@@ -17,6 +17,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
   - [Community](#community)
   - [Tutorials](#tutorials)
 - [Applications](#applications)
+  - [Block Explorers](#block-explorers)
   - [DeFi](#defi) (Decentralized Finance)
     - [DAO](#dao) (Decentralized Autonomous Organization)
     - [DEX](#dex) (Decentralized Exchange)
@@ -24,7 +25,6 @@ If you find this resource useful, consider sponsoring me or sending a donation t
     - [Platforms](#platforms)
   - [Digital Assets](#digital-assets)
   - [Domains](#domains)
-- [Block Explorers](#block-explorers)
 - [Development](#development)
   - [Schools](#schools)
   - [Contracts](#contracts)
@@ -65,6 +65,13 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 ## Applications
 
+### Block Explorers
+
+- [Better Call Dev](https://better-call.dev/)
+- [tezblock by AirGap](https://tezblock.io/)
+- [TzKT Explorer](https://tzkt.io/)
+- [TzStats](https://tzstats.com/)
+
 ### DeFi
 
 #### DAO
@@ -97,12 +104,6 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 - [Tezos Domains](https://tezos.domains/)
 
-## Block Explorers
-
-- [Better Call Dev](https://better-call.dev/)
-- [tezblock by AirGap](https://tezblock.io/)
-- [TzKT Explorer](https://tzkt.io/)
-- [TzStats](https://tzstats.com/)
 
 ## Development
 
