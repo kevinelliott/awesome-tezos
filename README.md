@@ -90,6 +90,17 @@ The following have lent their time to this guide. Thank you!
 - [Reddit](https://www.reddit.com/r/tezos/)
 - [Riot](https://riot.tzchat.org/)
 - [Stackexchange](https://tezos.stackexchange.com/)
+- [TezCorps](https://discord.gg/eypEaF3H)
+- [QuipuSwap Trade Talk](https://t.me/QuipTalk)
+- [Tezos Developers](https://t.me/TezosDevelopers)
+- [Tezos NFT Discussion](https://t.me/TezosNFT)
+- [Baking Bad](https://t.me/baking_bad_chat)
+- [SmartPy.io](https://t.me/SmartPy_io)
+- [TezTools](https://t.me/teztools)
+- [TezForce](https://t.me/tezforce)
+- [MadFish Developers Community](https://t.me/madfishdev)
+- [Tezos Till We Bezos](https://discord.gg/hmdabv83)
+- [Tezotopia](https://t.me/gifgames)
 
 ## Applications
 
@@ -112,7 +123,6 @@ The following have lent their time to this guide. Thank you!
 
 #### DEX
 
-- [Dexter](https://dexter.exchange/)
 - [SpicySwap](https://spicyswap.xyz/)
 - [QuipuSwap](https://quipuswap.com/)
 
@@ -152,6 +162,10 @@ The following have lent their time to this guide. Thank you!
 
 
 ## Development
+
+### Services
+
+- [TezTools](https://teztools.io/)
 
 ### Contracts
 
@@ -205,6 +219,13 @@ The following have lent their time to this guide. Thank you!
 
 - [GUTS Gaming](https://gutstoken.com/)
 - [PiXEL POTUS](https://www.pixelpotus.com/)
+- [TezoTopia](https://tezotop.io/)
+- [Punk Doe](https://www.notion.so/PUNK-DOE-3283be82486f40ccbce05923a3af7d72)
+
+## NFToys
+
+- [Drone Squadron](https://www.hicetnunc.xyz/objkt/103271)
+- [YOURCatz](https://www.hicetnunc.xyz/objkt/106008)
 
 ## News
 
