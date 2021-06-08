@@ -17,6 +17,7 @@ If you find this resource useful, consider:
 
 The following have lent their time to this guide. Thank you!
 - [Kevin Elliott](https://github.com/kevinelliott)
+- [Joseph Magly](https://github.com/jmagly)
 
 ## The Guide
 
