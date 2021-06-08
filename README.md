@@ -43,6 +43,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
     - [.NET](#net)
   - [Tutorials](#tutorials)
 - [Games](#games)
+- [News](#news)
 - [Partners](#partners)
 - [Wallets](#wallets)
   - [Desktop](#desktop-wallets)
@@ -171,6 +172,10 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 - [GUTS Gaming](https://gutstoken.com/)
 - [PiXEL POTUS](https://www.pixelpotus.com/)
+
+## News
+
+- [XTZ.news](https://xtz.news)
 
 
 ## Partners
