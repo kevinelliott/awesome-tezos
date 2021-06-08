@@ -17,6 +17,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
   - [Community](#community)
   - [Tutorials](#tutorials)
 - [Applications](#applications)
+  - [Analytics](#analytics)
   - [Block Explorers](#block-explorers)
   - [DeFi](#defi) (Decentralized Finance)
     - [DAO](#dao) (Decentralized Autonomous Organization)
@@ -25,6 +26,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
     - [Mixer](#mixer)
     - [Platforms](#platforms)
     - [Stable Coins](#stable-coins)
+    - [Tools](#tools)
   - [Digital Assets](#digital-assets)
   - [Domains](#domains)
 - [Development](#development)
@@ -68,6 +70,10 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 ## Applications
 
+### Analytics
+
+- [TezTools](https://teztools.io)
+
 ### Block Explorers
 
 - [Better Call Dev](https://better-call.dev/)
@@ -106,6 +112,10 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 #### Stable Coins
 
 - [Kolibri](https://kolibri.finance/)
+
+#### Tools
+
+- [TezTools](https://teztools.io/)
 
 ### Digital Assets
 
