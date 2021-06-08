@@ -19,6 +19,8 @@ The following have lent their time to this guide. Thank you!
 - [Kevin Elliott](https://github.com/kevinelliott)
 - [Joseph Magly](https://github.com/jmagly)
 
+Special thanks to [TezTools](https://teztools.io/) for providing useful utilities to the whole Tezos community!
+
 ## The Guide
 
 - [Resources](#resources)
