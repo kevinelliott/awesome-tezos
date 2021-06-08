@@ -42,16 +42,18 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
     - [Tools](#tools)
   - [Digital Assets](#digital-assets)
   - [Domains](#domains)
+  - [Identity](#identity)
 - [Development](#development)
   - [Schools](#schools)
-  - [Contracts](#contracts)
-    - [Playground &amp; IDEs](#playground-and-ides)
-    - [Templates &amp; Examples](#templates-and-examples)
-      - Airdrop
-      - DAO
-      - NFT
-      - STO
-      - [Tokens](#tokens)
+  - [Templates &amp; Examples](#templates-and-examples)
+    - [Contracts](#contracts)
+    - [dApps](#dapps)
+  - [Playground &amp; IDEs](#playground-and-ides)
+    - Airdrop
+    - DAO
+    - NFT
+    - STO
+    - [Tokens](#tokens)
   - [Libraries](#libraries)
     - [Go](#go)
     - [Javascript](#javascript)
@@ -153,12 +155,19 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 
 - [Tezos Domains](https://tezos.domains/)
 
+### Identity
+
+- [Tezos Profiles](https://tzprofiles.com/)
 
 ## Development
 
-### Contracts
+### Templates and Examples
 
-#### Templates and Examples
+#### Contracts
+
+##### Registries
+
+- [Tezos Profiles Smart Contract Registry](https://github.com/spruceid/tzprofiles/tree/main/contract)
 
 ##### Tokens
 
@@ -166,6 +175,10 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 - [FA2 NFT Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/nft_assets)
 - [FA2 NFT Fractional Ownership Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/fractional)
 - [FA2 NFT Collectibles Promotion Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/collectibles)
+
+#### dApps
+
+- [Tezos Profiles dApp](https://github.com/spruceid/tzprofiles/tree/main/dapp)
 
 ### Libraries
 
