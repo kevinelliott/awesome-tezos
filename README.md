@@ -8,11 +8,15 @@ We have spent hours exploring, researching, evaluating, reviewing, and editing t
 
 If you find this resource useful, consider:
 * submitting additions or error corrections
-* sponsoring me or sending a donation to **awesome-tezos.tez**. All donations will go towards growing and grooming this collection so that we can continue to help the Tezos community flourish.
+* [sponsoring me](https://github.com/sponsors/kevinelliott)
+* sending a donation to **awesome-tezos.tez**
+ 
+*All donations will go towards growing and grooming this collection so that we can continue to help the Tezos community flourish.*
 
 ### Contributors
 
-The following have lent their time to this guide: [Kevin Elliott](https://github.com/kevinelliott)
+The following have lent their time to this guide. Thank you!
+- [Kevin Elliott](https://github.com/kevinelliott)
 
 ## The Guide
 
