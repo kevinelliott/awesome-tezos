@@ -56,6 +56,14 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 ### Official Resources
 
+- [Discord](https://discord.com/invite/udZwhQn)
+- [Forum](https://forum.tezosagora.org/)
+- [Telegram](https://t.me/tezosplatform)
+- [Twitter](https://twitter.com/tezos)
+- [Website](https://tezos.com/)
+- [Developer Portal](https://tezos.com/developer-portal)
+- [Source Code at GitLab](https://gitlab.com/tezos/tezos)
+
 ### External Resources
 
 ### Jobs
@@ -65,8 +73,13 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 ### Community
 
-- [Twitter](https://twitter.com/tezos)
+- [Official Discord](https://discord.com/invite/udZwhQn)
+- [Official Forum](https://forum.tezosagora.org/)
+- [Official Telegram](https://t.me/tezosplatform)
+- [Official Twitter](https://twitter.com/tezos)
 - [Reddit](https://www.reddit.com/r/tezos/)
+- [Riot](https://riot.tzchat.org/)
+- [Stackexchange](https://tezos.stackexchange.com/)
 
 ## Applications
 
