@@ -22,7 +22,9 @@ If you find this resource useful, consider sponsoring me or sending a donation t
     - [DAO](#dao) (Decentralized Autonomous Organization)
     - [DEX](#dex) (Decentralized Exchange)
     - [Farms](#farms) (Yield Farming)
+    - [Mixer](#mixer)
     - [Platforms](#platforms)
+    - [Stable Coins](#stable-coins)
   - [Digital Assets](#digital-assets)
   - [Domains](#domains)
 - [Development](#development)
@@ -80,6 +82,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 #### DEX
 
+- [Dexter](https://dexter.exchange/)
 - [SpicySwap](https://spicyswap.xyz/)
 - [QuipuSwap](https://quipuswap.com/)
 
@@ -90,10 +93,18 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 - [Plenty](https://plentydefi.com)
 - [SalsaDAO](https://salsadao.xyz/#/farm)
 
+#### Mixer
+
+- [Maelstrom](https://maelstrom.fi/)
+
 #### Platforms
 
 - [Crunchy](https://crunchy.network/)
 - [Rocket Launchpad](https://docs.rocketlaunchpad.io)
+
+#### Stable Coins
+
+- [Kolibri](https://kolibri.finance/)
 
 ### Digital Assets
 
