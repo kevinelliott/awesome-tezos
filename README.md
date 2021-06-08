@@ -2,7 +2,7 @@
 
 > 🎉 A curated list of awesome things in the Tezos blockchain ecosystem! 🥳🤓🥳🤓🥳🤑
 
-We have spent hours exploring, researching, evaluating, reviewing, and editing this collection of Awesome Tezos resources, and we hope you 💙 it. 
+Tezos is the blockchain of the future! If you're ready this you probably already know that. We're glad you've made the smart decision to be a part of the best blockchain in existence. We have spent hours exploring, researching, evaluating, reviewing, and editing this collection of Awesome Tezos resources, and we hope you 💙 it. 
 
 ### Contributing
 
