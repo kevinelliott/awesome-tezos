@@ -110,6 +110,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 - [HEN / Hic et Nunc](https://www.hicetnunc.xyz/)
 - [Kalamint](https://kalamint.io/)
+- [OneOf](https://oneof.com/)
 
 ### Domains
 
@@ -168,6 +169,7 @@ If you find this resource useful, consider sponsoring me or sending a donation t
 
 ## Games
 
+- [GUTS Gaming](https://gutstoken.com/)
 - [PiXEL POTUS](https://www.pixelpotus.com/)
 
 
