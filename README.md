@@ -45,6 +45,7 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
   - [Identity](#identity)
 - [Development](#development)
   - [Schools](#schools)
+  - [Vanity Address with Seed Phrase](#Vanity-Address-Generation-with-Seed-Phrase)
   - [Templates &amp; Examples](#templates-and-examples)
     - [Contracts](#contracts)
     - [dApps](#dapps)
@@ -66,6 +67,7 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
   - [Desktop](#desktop-wallets)
   - [Mobile](#mobile-wallets)
   - [Web](#web-wallets)
+  - [Browser](#browser-wallets)
 
 ## Resources
 
@@ -101,6 +103,8 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 ### Analytics
 
 - [TezTools](https://teztools.io)
+- [Pezos Charting](https://pezos-sandbox.duckdns.org/)
+- [Quipuswap-Tezos-Analysis-Colab](https://github.com/ztepler/quipuswap-tezos-analysis-colab)
 
 ### Block Explorers
 
@@ -127,6 +131,9 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 - [farm/soil](https://farmsoil.xtz)
 - [Plenty](https://plentydefi.com)
 - [SalsaDAO](https://salsadao.xyz/#/farm)
+- [MagicButton](https://magic-button.io/)
+- [Crunchy](https://app.crunchy.network/#/farms)
+- [Staker](https://farm.stakerdao.com/#/)
 
 #### Mixer
 
@@ -150,6 +157,7 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 - [HEN / Hic et Nunc](https://www.hicetnunc.xyz/)
 - [Kalamint](https://kalamint.io/)
 - [OneOf](https://oneof.com/)
+- [Radion](https://www.radion.fm/)
 
 ### Domains
 
@@ -161,7 +169,13 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 
 ## Development
 
+### Vanity Address Generation with Seed Phrase
+
+- [Tezos Vanity Address with Seed Phrase](https://gist.github.com/baketzforme/e27d46d70e949ea9953b11902c2fa4fe)
+
 ### Templates and Examples
+
+- [Tezos Truffle Suite](https://www.trufflesuite.com/docs/tezos/truffle/quickstart)
 
 #### Contracts
 
@@ -175,6 +189,8 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 - [FA2 NFT Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/nft_assets)
 - [FA2 NFT Fractional Ownership Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/fractional)
 - [FA2 NFT Collectibles Promotion Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/collectibles)
+- [FA2 Deployer](https://github.com/KStasi/fa2-deployer)
+- [FA2 Token Batch Sender](https://batch.xtz.tools/)
 
 #### dApps
 
@@ -215,12 +231,15 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 - [How to Build Your First dApp on Tezos by Claude Barde](https://betterprogramming.pub/build-your-first-dapp-on-tezos-270c568d4fe9)
 - [Tezos: Creating, Deploying, and Interacting with a Contract by ProtoFire.io](https://medium.com/protofire-blog/tezos-part-1-creating-deploying-and-interacting-with-a-contract-5ee3efa819fa)
 - YouTube: [Taquito Workshop - Tezos + CoinList Hackathon](https://www.youtube.com/watch?v=qYk_17YbPa4)
+- Figment Learn: [Tezos Pathway: Learn what makes Tezos unique and build your first Tezos smart contract ](https://learn.figment.io/network-documentation/tezos/tezos-pathway)
 
 
 ## Games
 
 - [GUTS Gaming](https://gutstoken.com/)
 - [PiXEL POTUS](https://www.pixelpotus.com/)
+- [Bunny Knights](https://www.bunnyknights.com/)
+- [Drone Squadron](https://dronesquadron.xyz/)
 
 ## News
 
@@ -247,3 +266,7 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 ### Web Wallets
 
 - [Kukai](https://wallet.kukai.app/)
+
+### Browser Wallets
+
+- [Temple](https://templewallet.com/)
