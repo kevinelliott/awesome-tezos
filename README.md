@@ -2,7 +2,7 @@
 
 > 🎉 A curated list of awesome things in the Tezos blockchain ecosystem! 🥳🤓🥳🤓🥳🤑
 
-We have spent hours exploring, researching, evaluating, reviewing, and editing this collection of Awesome Tezos resources, and we hope you 💙 it. 
+Tezos is the blockchain of the future! If you are reading this then you probably already know that. We're glad you've made the smart decision to be a part of the best blockchain in existence. We have spent hours exploring, researching, evaluating, reviewing, and editing this collection of Awesome Tezos resources, and we hope you 💙 it. 
 
 ### Contributing
 
@@ -17,6 +17,9 @@ If you find this resource useful, consider:
 
 The following have lent their time to this guide. Thank you!
 - [Kevin Elliott](https://github.com/kevinelliott)
+- [Joseph Magly](https://github.com/jmagly)
+
+Special thanks to [TezTools](https://teztools.io/) for providing useful utilities to the whole Tezos community!
 
 ## The Guide
 
@@ -39,16 +42,18 @@ The following have lent their time to this guide. Thank you!
     - [Tools](#tools)
   - [Digital Assets](#digital-assets)
   - [Domains](#domains)
+  - [Identity](#identity)
 - [Development](#development)
   - [Schools](#schools)
-  - [Contracts](#contracts)
-    - [Playground &amp; IDEs](#playground-and-ides)
-    - [Templates &amp; Examples](#templates-and-examples)
-      - Airdrop
-      - DAO
-      - NFT
-      - STO
-      - [Tokens](#tokens)
+  - [Templates &amp; Examples](#templates-and-examples)
+    - [Contracts](#contracts)
+    - [dApps](#dapps)
+  - [Playground &amp; IDEs](#playground-and-ides)
+    - Airdrop
+    - DAO
+    - NFT
+    - STO
+    - [Tokens](#tokens)
   - [Libraries](#libraries)
     - [Go](#go)
     - [Javascript](#javascript)
@@ -162,6 +167,9 @@ The following have lent their time to this guide. Thank you!
 
 - [Tezos Domains](https://tezos.domains/)
 
+### Identity
+
+- [Tezos Profiles](https://tzprofiles.com/)
 
 ## Development
 
@@ -171,7 +179,9 @@ The following have lent their time to this guide. Thank you!
 
 ### Contracts
 
-#### Templates and Examples
+##### Registries
+
+- [Tezos Profiles Smart Contract Registry](https://github.com/spruceid/tzprofiles/tree/main/contract)
 
 ##### Tokens
 
@@ -179,6 +189,10 @@ The following have lent their time to this guide. Thank you!
 - [FA2 NFT Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/nft_assets)
 - [FA2 NFT Fractional Ownership Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/fractional)
 - [FA2 NFT Collectibles Promotion Asset by TQ Tezos](https://github.com/tqtezos/smart-contracts/tree/master/collectibles)
+
+#### dApps
+
+- [Tezos Profiles dApp](https://github.com/spruceid/tzprofiles/tree/main/dapp)
 
 ### Libraries
 
