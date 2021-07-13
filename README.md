@@ -95,6 +95,19 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 - [Reddit](https://www.reddit.com/r/tezos/)
 - [Riot](https://riot.tzchat.org/)
 - [Stackexchange](https://tezos.stackexchange.com/)
+- [QuipuSwap Trade Talk](https://t.me/QuipTalk)
+- [Tezos Developers](https://t.me/TezosDevelopers)
+- [Tezos NFT Discussion](https://t.me/TezosNFT)
+- [Baking Bad](https://t.me/baking_bad_chat)
+- [SmartPy.io](https://t.me/SmartPy_io)
+- [TezTools](https://t.me/teztools)
+- [TezForce](https://t.me/tezforce)
+- [MadFish Developers Community](https://t.me/madfishdev)
+- [Tezos Till We Bezos](https://discord.gg/hmdabv83)
+- [Tezotopia](https://t.me/gifgames)
+
+### Telegram and Discord 
+- [TezCorps](https://discord.gg/eypEaF3H)
 
 ## Applications
 
@@ -117,7 +130,6 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 
 #### DEX
 
-- [Dexter](https://dexter.exchange/)
 - [SpicySwap](https://spicyswap.xyz/)
 - [QuipuSwap](https://quipuswap.com/)
 
@@ -161,9 +173,11 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 
 ## Development
 
-### Templates and Examples
+### Services
 
-#### Contracts
+- [TezTools](https://teztools.io/)
+
+### Contracts
 
 ##### Registries
 
@@ -221,6 +235,10 @@ Special thanks to [TezTools](https://teztools.io/) for providing useful utilitie
 
 - [GUTS Gaming](https://gutstoken.com/)
 - [PiXEL POTUS](https://www.pixelpotus.com/)
+- [TezoTopia](https://tezotop.io/)
+- [Punk Doe](https://www.notion.so/PUNK-DOE-3283be82486f40ccbce05923a3af7d72)
+- [YOURCatz](https://www.hicetnunc.xyz/objkt/106008)
+- [Drone Squadron](https://www.hicetnunc.xyz/objkt/103271)
 
 ## News
 
